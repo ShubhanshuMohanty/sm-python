@@ -14,3 +14,10 @@ print (tuple1[-1])
 #List Allows duplicate members.
 #Tuple is a collection which is ordered and unchangeable.
 #Tuple Allows duplicate members.
+
+t2=list(tuple1) 
+print (t2) 
+t2[2]="A in sports" 
+print (t2) 
+for i in t2: 
+    print(i)
