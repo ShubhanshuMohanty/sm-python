@@ -1,3 +1,4 @@
+#Q.1)Create dynamic list where you will ask user to enter 5 elements in it and perform insert new element and delete an element operation on it.
 # Create an empty list
 dynamic_list = []
 

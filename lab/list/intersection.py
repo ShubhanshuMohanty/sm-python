@@ -1,3 +1,4 @@
+#Q.4) Perform Intersection operation on list
 # initialize two list
 list1 = [1, 2, 3, 4, 5]
 list2 = [3, 4, 5, 6, 7]

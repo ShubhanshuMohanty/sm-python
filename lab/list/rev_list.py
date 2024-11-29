@@ -1,3 +1,4 @@
+#Q.2)WAP to reverse the element in List 
 # initialize my_list
 my_list = [2,4,6,8,10]
 

@@ -1,3 +1,4 @@
+#Q.3)WAP to find second smallest element in the list
 # initialize my_list
 my_list = [2,4,6,8,10,1,8,3] 
 
